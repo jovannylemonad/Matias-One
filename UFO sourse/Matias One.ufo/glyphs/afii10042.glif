@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10042" format="1">
+  <advance width="760"/>
+  <unicode hex="0428"/>
+  <outline>
+    <contour>
+      <point x="630" y="0" type="line" smooth="yes" name="hr00"/>
+      <point x="655" y="0"/>
+      <point x="680" y="25"/>
+      <point x="680" y="50" type="curve" smooth="yes"/>
+      <point x="680" y="650" type="line" smooth="yes"/>
+      <point x="680" y="675"/>
+      <point x="655" y="700"/>
+      <point x="630" y="700" type="curve" smooth="yes"/>
+      <point x="605" y="700"/>
+      <point x="580" y="675"/>
+      <point x="580" y="650" type="curve" smooth="yes"/>
+      <point x="580" y="110" type="line"/>
+      <point x="430" y="110" type="line"/>
+      <point x="430" y="650" type="line" smooth="yes"/>
+      <point x="430" y="675"/>
+      <point x="405" y="700"/>
+      <point x="380" y="700" type="curve" smooth="yes"/>
+      <point x="355" y="700"/>
+      <point x="330" y="675"/>
+      <point x="330" y="650" type="curve" smooth="yes"/>
+      <point x="330" y="110" type="line"/>
+      <point x="180" y="110" type="line"/>
+      <point x="180" y="650" type="line" smooth="yes"/>
+      <point x="180" y="675"/>
+      <point x="155" y="700"/>
+      <point x="130" y="700" type="curve" smooth="yes"/>
+      <point x="105" y="700"/>
+      <point x="80" y="675"/>
+      <point x="80" y="650" type="curve" smooth="yes"/>
+      <point x="80" y="50" type="line" smooth="yes"/>
+      <point x="80" y="25"/>
+      <point x="105" y="0"/>
+      <point x="130" y="0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="0" width="110" />
+      <hstem pos="700" width="-20" />
+      <vstem3 stem3List="80,100,330,100,580,100" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
