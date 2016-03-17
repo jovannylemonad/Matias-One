@@ -15,7 +15,7 @@
   <key>italicAngle</key>
   <integer>0</integer>
   <key>openTypeHeadCreated</key>
-  <string>2016/02/02 07:36:20</string>
+  <string>2016/03/17 11:24:20</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
@@ -30,17 +30,15 @@
   <key>openTypeNameDesignerURL</key>
   <string>http://www.limostudio.ru/</string>
   <key>openTypeNameLicense</key>
-  <string></string>
+  <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
   <key>openTypeNameLicenseURL</key>
-  <string></string>
+  <string>http://scripts.sil.org/OFL</string>
   <key>openTypeNameManufacturer</key>
   <string>Vitaliy Tsygankov &amp; Jovanny Lemonad</string>
   <key>openTypeNameManufacturerURL</key>
-  <string>http://www.jovanny.ru/</string>
+  <string>http://www.typetype.ru/</string>
   <key>openTypeNameDescription</key>
   <string>Copyright (c) 2016 by Vitaliy Tsygankov &amp; Jovanny Lemonad. All rights reserved.</string>
-  <key>openTypeNamePreferredSubfamilyName</key>
-  <string>Regular</string>
   <key>openTypeNameSampleText</key>
   <string></string>
   <key>openTypeNameUniqueID</key>
@@ -124,7 +122,7 @@
   <key>openTypeOS2VendorID</key>
   <string>PYRS</string>
   <key>openTypeOS2WeightClass</key>
-  <integer>200</integer>
+  <integer>400</integer>
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
@@ -149,7 +147,7 @@
   <key>postscriptUniqueID</key>
   <integer>-1</integer>
   <key>postscriptFontName</key>
-  <string>MatiasOne</string>
+  <string>Matias-One</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
@@ -182,15 +180,15 @@
   <key>postscriptUnderlineThickness</key>
   <integer>50</integer>
   <key>postscriptWeightName</key>
-  <string>ExtraLight</string>
+  <string>Regular</string>
   <key>styleMapFamilyName</key>
   <string>Matias One</string>
   <key>styleMapStyleName</key>
-  <string>bold</string>
+  <string>regular</string>
   <key>styleName</key>
   <string>Regular</string>
   <key>trademark</key>
-  <string>Matias is a trademark of Vitaliy Tsygankov &amp; Jovanny Lemonad.</string>
+  <string>Matias One is a trademark of Vitaliy Tsygankov &amp; Jovanny Lemonad.</string>
   <key>unitsPerEm</key>
   <integer>1000</integer>
   <key>versionMajor</key>

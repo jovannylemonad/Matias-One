@@ -57,6 +57,8 @@ languagesystem cyrl dflt;
 
 
 
+
+
 feature kern {
    pos quotesingle four -70;
    pos quotesingle six -30;
@@ -4078,6 +4080,8 @@ feature kern {
    pos @_kern51 @_kern40 -10;
    pos @_kern51 @_kern44 -20;
 } kern;
+
+
 
 
 

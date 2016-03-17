@@ -516,8 +516,8 @@
   <key>public.kern1.afii10020</key>
   <array>
     <string>afii10052</string>
-    <string>afii10050</string>
     <string>afii10020</string>
+    <string>afii10050</string>
   </array>
   <key>public.kern1.afii10022</key>
   <array>
@@ -544,15 +544,15 @@
   <array>
     <string>afii10046</string>
     <string>afii10051</string>
-    <string>afii10058</string>
-    <string>afii10059</string>
     <string>afii10060</string>
+    <string>afii10059</string>
+    <string>afii10058</string>
   </array>
   <key>public.kern1.afii10068</key>
   <array>
     <string>afii10100</string>
-    <string>afii10098</string>
     <string>afii10068</string>
+    <string>afii10098</string>
   </array>
   <key>public.kern1.afii10070</key>
   <array>
@@ -571,9 +571,9 @@
   </array>
   <key>public.kern1.afii10094</key>
   <array>
+    <string>afii10094</string>
     <string>afii10106</string>
     <string>afii10107</string>
-    <string>afii10094</string>
   </array>
   <key>public.kern1.hyphen</key>
   <array>
@@ -719,8 +719,8 @@
   <key>public.kern2.afii10029</key>
   <array>
     <string>afii10057</string>
-    <string>afii10058</string>
     <string>afii10029</string>
+    <string>afii10058</string>
   </array>
   <key>public.kern2.afii10035</key>
   <array>
@@ -736,14 +736,14 @@
   <key>public.kern2.afii10044</key>
   <array>
     <string>afii10051</string>
-    <string>afii10060</string>
     <string>afii10044</string>
+    <string>afii10060</string>
   </array>
   <key>public.kern2.afii10068</key>
   <array>
     <string>afii10100</string>
-    <string>afii10098</string>
     <string>afii10068</string>
+    <string>afii10098</string>
   </array>
   <key>public.kern2.afii10070</key>
   <array>
@@ -757,18 +757,18 @@
   </array>
   <key>public.kern2.afii10077</key>
   <array>
-    <string>afii10106</string>
     <string>afii10077</string>
+    <string>afii10106</string>
   </array>
   <key>public.kern2.afii10079</key>
   <array>
-    <string>afii10107</string>
     <string>afii10079</string>
+    <string>afii10107</string>
   </array>
   <key>public.kern2.afii10081</key>
   <array>
-    <string>afii10193</string>
     <string>afii10081</string>
+    <string>afii10193</string>
   </array>
   <key>public.kern2.afii10083</key>
   <array>
